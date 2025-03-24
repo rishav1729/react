@@ -1,0 +1,23 @@
+{
+  "name": "episode-2",
+  "version": "1.0.0",
+  "description": "episode 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishav1729/react.git"
+  },
+  "keywords": [],
+  "author": "Rishav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishav1729/react/issues"
+  },
+  "homepage": "https://github.com/rishav1729/react#readme",
+  "devDependencies": {
+    "parcel": "^2.14.2"
+  }
+}
