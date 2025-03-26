@@ -2,7 +2,6 @@
   "name": "episode-2",
   "version": "1.0.0",
   "description": "episode 2",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -19,5 +18,9 @@
   "homepage": "https://github.com/rishav1729/react#readme",
   "devDependencies": {
     "parcel": "^2.14.2"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
